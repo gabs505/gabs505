@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <p>My name is Gabriela and I'm looking for a job as a <b>frontend developer</b> :computer: </p>
 <p>About me: </p>
-- :art: paying attention to design
-- :iphone: :computer: creating responsive websites
-- :file_folder: keeping projects clean
-- :bulb: as creative as can be
+- :art: paying attention to design </br>
+- :iphone: :computer: creating responsive websites </br>
+- :file_folder: keeping projects clean </br>
+- :bulb: as creative as can be </br>
 
