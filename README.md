@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>My name is Gabriela and I'm looking for a job as a <b>frontend developer</b> :computer: </h2>
+<p>My name is Gabriela and I'm looking for a job as a <b>frontend developer</b> :computer: </p>
 <p>About me: </p>
-- :iphone: :computer: creating responsive websites 
+- :art: paying attention to design
+- :iphone: :computer: creating responsive websites
+- :file_folder: keeping projects clean
+- :bulb: as creative as can be
+
