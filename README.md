@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>My name is Gabriela and I'm looking for a job as a <b>frontend developer</b> :computer: </p>
+<!--<p>My name is Gabriela and I'm looking for a job as a <b>frontend developer</b> :computer: </p>
 <p>About me: </p>
 - :art: paying attention to design </br>
 - :iphone: :computer: creating responsive websites </br>
 - :file_folder: keeping projects clean </br>
-- :bulb: as creative as can be </br>
+- :bulb: as creative as can be </br>-->
 
